@@ -236,7 +236,6 @@ Shows the dashboard fully populated instantly.
 ---
 
 ## 🚀 Future Roadmap
-- Docker container deployment  
 - SMTP email alerts  
 - Automated attacker fingerprinting  
 - CSV / JSON export  
@@ -249,6 +248,8 @@ Shows the dashboard fully populated instantly.
 Released under the **MIT License** — free for personal & commercial use.
 
 ---
+
+**For Dockerized Version Visit** --> https://github.com/AkhilBangaru/Nexus_Web_HoneyPot_Docker_Version/
 
 ## ⭐ Final Note
 If you like this project, consider giving it a **GitHub star ⭐** and contributing enhancements!
